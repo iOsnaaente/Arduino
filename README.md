@@ -21,11 +21,20 @@ to compile a C++ file using G++
 & ./exe_name
 
 
+<<<<<<< HEAD
 to compile a C file using GCC
 
 & gcc -o exe_name name_C_file.c
 
 & ./exe_name
+=======
+
+to compile a C file using GCC 
+
+& gcc -o exe_name name_C_file.c 
+
+& ./exe_name 
+>>>>>>> eb578f841116bc3c4fe76f82ea04652b9e21997d
 
 AND RUN IT !!!!!
 >>>>>>> 89f46f0f918b5f81fcf843320c0d86d74e30fada
