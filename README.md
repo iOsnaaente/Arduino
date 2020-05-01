@@ -11,4 +11,11 @@ to compile a C++ file using G++
 & ./exe_name
 
 
+
+to compile a C file using GCC 
+
+& gcc -o exe_name name_C_file.c 
+
+& ./exe_name 
+
 AND RUN IT !!!!!
