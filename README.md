@@ -27,3 +27,8 @@ to compile a C file using GCC
 
 
 AND RUN IT !!!!!
+
+
+
+https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM
+http://labdegaragem.com/forum/topics/alterar-a-frequencia-do-pwm
