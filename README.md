@@ -1,6 +1,5 @@
 # Projetos em Arduino
 
-HEAD
 ´Repositório para projetos desenvolvidos em Arduino.´
 
 The first project here was a RF protocol to communicate two arduinos (1 UNO and 1 Nano) with a module called MX-RM-5V (a receiver and a transmiter). The communicate was made using the concepts aborded in Industrial Networks classrom.
