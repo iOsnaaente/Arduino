@@ -1,9 +1,9 @@
-/// THIS IS A COPY OF VirtualWire.h MADE BY Mike McCauley 
+/// THIS IS AN ADAPTATION OF VirtualWire.h MADE BY Mike McCauley 
 /// $Id: VirtualWire.h,v 1.6 2013/02/14 22:02:11 mikem Exp mikem $
 ///
 /// VirtualWire.h
 ///
-/// To understand the concepts used in the lib: VirtualWire 
+/// To understand the concepts used in the VirtualWire library 
 /// I decide to recreate this lib with my owns concepts 
 /// It's a copy of VW lib available in the internet but with no complexity
 /// 
@@ -26,6 +26,7 @@ static int  rx_pin          = NULL ;
 static int  ptt_pint        = NULL ;
 static bool ptt_inverted    = false;
 static int  speed           = MAX_SPEED_BPS ;
+
 
 
 void set_tx_pin(uint8_t pin = NULL){
