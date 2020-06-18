@@ -2,12 +2,14 @@
 
 Repositório para projetos desenvolvidos em Arduino.
 
-The first project here was a RF protocol to communicate two arduinos (1 UNO and 1 Nano) with a module called MX-RM-5V (a receiver and a transmiter). The communicate was made using the concepts aborded in Industrial Networks classrom.
+Aqui guardo alguns projetos em arduino :D 
 
-In Industrial Networks was learned concepts of transmission using the protocol ASK (Amplitude shift Keying) and OOK (On Off Keying) being the main protocol used by this process. 
+Enjoy it !!!
 
-The first step to turn this project alive was the creation of a CRC system of byte counting, to make the transmission more security. 
 
+The first project (RF_PTC) is a RF protocol to communicate two arduinos (1 UNO and 1 Nano) with a module called MX-RM-5V (the receiver) and FS1000A (the transmiter). The communicate was made using the concepts aborded in Industrial Networks classrom.
+
+The Second one, is a Sonar made with a HC and run with python 3.6.
 
 
 
@@ -27,8 +29,6 @@ to compile a C file using GCC
 
 
 AND RUN IT !!!!!
-
-
 
 https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM
 http://labdegaragem.com/forum/topics/alterar-a-frequencia-do-pwm
