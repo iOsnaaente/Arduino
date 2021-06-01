@@ -2,8 +2,8 @@
 
 #define BUFF 18
 
-double ddLongitude = -54.89831672609559;
-double ddLatitude = -29.165307659422155;
+double ddLongitude = -54.898316;
+double ddLatitude = -29.1653076;
 
 bool receiveComplete = false;
 
