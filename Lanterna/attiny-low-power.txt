@@ -1,0 +1,9 @@
+https://www.gammon.com.au/forum/?id=11497
+
+https://electronics.stackexchange.com/questions/442481/does-attiny13-pull-a-lot-more-current-in-sleep-mode-than-attiny85-or-did-i-do-so
+
+https://bigdanzblog.wordpress.com/2014/08/10/attiny85-wake-from-sleep-on-pin-state-change-code-example/
+
+https://www.electronicsweekly.com/blogs/engineer-in-wonderland/atduino-go-sleep-attiny-2017-08/
+
+https://homecircuits.eu/blog/low-power-picopower-attiny13a/
