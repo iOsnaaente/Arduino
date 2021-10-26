@@ -43,6 +43,9 @@ O repositório GY-271 com os códigos arduino possuem também um arquivo Ploter.
 Para rodar o ploter, há a necessidade de se ter instala a biblioteca DearPyGui na sua versão 0.8.4 disponível em requirements.txt 
 
 
+# AS5043A
+Código em Arduino para ler e mandar via serial, um sensor AS5043A com 16 bits de payload, sendo 10 bits de precisão e 6 auxiliares (status e crc)
+
 
 # De mais projetos 
 
