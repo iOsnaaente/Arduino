@@ -4,11 +4,11 @@ Repositório para projetos desenvolvidos em Arduino.
 
 Aqui guardo alguns projetos em arduino :D 
 
-# Sensor Magnetômetro 3 Eixos - GY-271
+# Módulo Bússola Magnética 3 Eixos - GY-271
 
 O Sensor Magnetômetro 3 Eixos Gy-271 mede o campo magnético e funciona como uma Bússola Digital, podendo ser usado por exemplo com o Arduino para indicar o norte geográfico da Terra.
 
-[b] Durante um periodo de 24h a bussola gira 360º em sentido norte, provando que a Terra gira em um periodo de aproximadamente 24h :D 
+* Durante um periodo de 24h a bussola gira 360º em sentido norte, provando que a Terra gira em um periodo de aproximadamente 24h :D 
 
 Sensor adquirido em https://www.eletrogate.com/sensor-magnetometro-3-eixos-gy-271?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=CjwKCAjwzt6LBhBeEiwAbPGOgfYN6K4GSSJyBk6vj7sDMx2NiBvCaPNCLMuiu1ufPeATTdM2NBShBhoCQY4QAvD_BwE 
 
@@ -26,7 +26,7 @@ Para rodar o ploter, há a necessidade de se ter instala a biblioteca DearPyGui 
 
 
 
-# MMA845x
+# Acelerômetro 3 Eixos MMA8452
 
 Sensor adquirido em https://www.baudaeletronica.com.br/acelerometro-3-eixos-mma8452.html?gclid=CjwKCAjwzt6LBhBeEiwAbPGOgWlF5sQ5tTQK_c03PfmdnJXd8mp2HOKK0WSagh1HSzzYuCwhysS3ABoCNEYQAvD_BwE
 
@@ -43,11 +43,11 @@ O repositório GY-271 com os códigos arduino possuem também um arquivo Ploter.
 Para rodar o ploter, há a necessidade de se ter instala a biblioteca DearPyGui na sua versão 0.8.4 disponível em requirements.txt 
 
 
-# AS5043A
+# Encoder Magnético AS5043A
 Código em Arduino para ler e mandar via serial, um sensor AS5043A com 16 bits de payload, sendo 10 bits de precisão e 6 auxiliares (status e crc)
 
 
-# De mais projetos 
+# Demais projetos 
 
 O primeiro projeto iniciado (RF_PTC), foi a criação de um protocolo de transmissão de Rádio frequência usando o módulo transmissor FS100A e o módulo receptor MX-RM-5V para ser capaz de transmitir entre dois arduinos como faz a biblioteca VirtualWire. Tendo como intuito o aprendizado pessoal de como o microcontrolador é capaz de fazer esse tipo de transmissão e de como as modulações de sinal funcionam nesses casos.  
 
